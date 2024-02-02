@@ -4,6 +4,9 @@
     "baseUrl": ".",
     // Alias
     "paths": {
+      "@cv": [
+        "./cv.json"
+      ],
       "@/*": [
         "src/*"
       ]
