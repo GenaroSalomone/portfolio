@@ -201,6 +201,7 @@
   "projects": [
     {
       "name": "Proyecto de Trivias",
+      "isActive": false,
       "startDate": "2013-01-01",
       "endDate": "2024-01-01",
       "description": "Proyecto realizado en materias de el último año de estudios en UNRC, usando API rest con Sinatra",
@@ -211,6 +212,7 @@
     },
     {
       "name": "Proyecto de Simulación",
+      "isActive": false,
       "startDate": "2013-01-01",
       "endDate": "2024-01-01",
       "description": "Proyecto realizado en la materia Proyecto de la UNRC donde se realiza un proyecto de simulación usando python (lógica y backend), y react (frontend).",
@@ -221,6 +223,7 @@
     },
     {
       "name": "Issue Tracker",
+      "isActive": true,
       "startDate": "2013-01-01",
       "endDate": "2024-01-01",
       "description": "Proyecto realizado para experimentar con uno de los frameworks más populares de React, NextJS, siguiendo el curso de Programming with Mosh",
@@ -234,6 +237,7 @@
     },
     {
       "name": "Evently",
+      "isActive": true,
       "startDate": "2013-01-01",
       "endDate": "2024-01-01",
       "description": "Proyecto realizado para experimentar con uno de los frameworks más populares de React, NextJS, siguiendo el curso de Javascript Mastery",
