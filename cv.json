@@ -186,6 +186,11 @@
       "name": "React",
       "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -218,7 +223,8 @@
       "endDate": "2024-01-01",
       "description": "Proyecto realizado en materias de el último año de estudios en UNRC, usando API rest con Sinatra",
       "highlights": [
-        "Funcionalidad para traducir preguntas con más de 100 lenguajes disponibles"
+        "Funcionalidad para traducir preguntas con más de 100 lenguajes disponibles",
+        "Tech Stack: Ruby, Sinatra, SQLite, ActiveRecord, RSpec, Docker, Yard"
       ],
       "url": "http://18.217.27.55/",
       "github": "https://github.com/GenaroSalomone/AYDS_Project"
@@ -230,7 +236,8 @@
       "endDate": "2024-01-01",
       "description": "Proyecto realizado en la materia final de la carrera, donde se realiza un proyecto de simulación usando Python, y React.",
       "highlights": [
-        "Enfoque en la calidad del código con pruebas unitarias y de integración"
+        "Enfoque en la calidad del código con pruebas unitarias y de integración",
+        "Tech Stack: Flask, Behave, Pytest, React, SQLite, Marshmallow"
       ],
       "github": "https://github.com/GenaroSalomone/War-of-elements"
     },
