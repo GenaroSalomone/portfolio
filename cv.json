@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Genaro Salomone",
-    "label": "Full Stack Developer",
+    "label": "Desarrollador de Software",
     "image": "https://lh3.googleusercontent.com/a/ACg8ocJEEFllJfeehNeL_yF9sKRoD7gnUdDO7GRwkzZHS3MuaCf4=s288-c-no",
     "email": "genarosalomone@gmail.com",
     "phone": "+54 3585499367",
     "url": "https://johndoe.com",
-    "summary": "Soy un estudiante próximo a graduarme como Analista en Computación en la UNRC. Resido en Río Cuarto, aunque soy originario de Adelia María. Me apasiona explorar nuevas tecnologías y estoy constantemente buscando oportunidades para aplicar mis conocimientos en proyectos desafiantes. Mi objetivo es trabajar en un entorno profesional donde pueda contribuir con mis habilidades, seguir aprendiendo y creciendo como desarrollador de software.",
+    "summary": "Soy un estudiante de 24 años próximo a graduarme como Analista en Computación en la UNRC. Resido en Río Cuarto, aunque soy originario de Adelia María. Me apasiona explorar nuevas tecnologías y estoy constantemente buscando oportunidades para aplicar mis conocimientos en proyectos desafiantes. Mi objetivo es trabajar en un entorno profesional donde pueda contribuir con mis habilidades, seguir aprendiendo y creciendo como desarrollador de software.",
     "location": {
       "address": "",
       "postalCode": "5800",
@@ -36,10 +36,22 @@
     {
       "institution": "Universidad Nacional De Rio Cuarto",
       "url": "https://www.unrc.edu.ar/",
-      "area": "Ingenieria de Software",
+      "area": "Analista en Computación",
       "studyType": "Pregrado",
-      "startDate": "2017-01-01",
+      "startDate": "2018-01-01",
       "endDate": "2024-01-06",
+      "score": "4.0",
+      "courses": [
+        "Inglés - Cambridge English: Preliminary (PET)",
+        "Curso de Node.js de Fernando Herrera"
+      ]
+    },
+    {
+      "institution": "Universidad de Cambridge",
+      "url": "https://www.unrc.edu.ar/",
+      "area": "Preliminary (PET)",
+      "studyType": "Pregrado",
+      "startDate": "2016-01-01",
       "score": "4.0",
       "courses": [
         "Inglés - Cambridge English: Preliminary (PET)",
