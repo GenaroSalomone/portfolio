@@ -29,4 +29,16 @@ const { name } = basics;
     margin: auto;
     width: 100%;
   }
+
+  @media (width <= 768px) {
+    main {
+      padding: 1rem;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .container {
+      flex-direction: column-reverse;
+    }
+  }
 </style>

@@ -2,7 +2,7 @@
   "basics": {
     "name": "Genaro Salomone",
     "label": "Desarrollador de Software",
-    "image": "https://lh3.googleusercontent.com/a/ACg8ocJEEFllJfeehNeL_yF9sKRoD7gnUdDO7GRwkzZHS3MuaCf4=s288-c-no",
+    "image": "./me.jpeg",
     "email": "genarosalomone@gmail.com",
     "phone": "+54 3585499367",
     "url": "https://johndoe.com",
@@ -258,7 +258,19 @@
         "Validación de datos robusta y tipada con Zod"
       ],
       "github": "https://github.com/GenaroSalomone/evently",
-      "url": "https://github.com/GenaroSalomone/evently"
+      "url": "https://evently-sable-three.vercel.app"
+    },
+    {
+      "name": "Node RestServer",
+      "isActive": false,
+      "startDate": "2013-01-01",
+      "endDate": "2024-01-01",
+      "description": "Node RestServer siguiendo el curso de Fernando Herrera - Udemy.",
+      "highlights": [
+        "Tech Stack: JWT, Express, Middlewares, CRUD - Mongoose, Google Sign In, Cloudinary y más"
+      ],
+      "github": "https://github.com/GenaroSalomone/node-restserver",
+      "url": "https://documenter.getpostman.com/view/19137496/2s9Y5VT4HR"
     }
   ]
 }
