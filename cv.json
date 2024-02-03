@@ -220,10 +220,11 @@
       "highlights": [
         "Funcionalidad para traducir preguntas con más de 100 lenguajes disponibles"
       ],
-      "url": "https://github.com/GenaroSalomone/AYDS_Project"
+      "url": "http://18.217.27.55/",
+      "github": "https://github.com/GenaroSalomone/AYDS_Project"
     },
     {
-      "name": "Proyecto de Simulación",
+      "name": "War of Elements",
       "isActive": false,
       "startDate": "2013-01-01",
       "endDate": "2024-01-01",
@@ -231,7 +232,7 @@
       "highlights": [
         "Enfoque en la calidad del código con pruebas unitarias y de integración"
       ],
-      "url": "https://github.com/GenaroSalomone/War-of-elements"
+      "github": "https://github.com/GenaroSalomone/War-of-elements"
     },
     {
       "name": "Issue Tracker",
@@ -243,7 +244,8 @@
         "Tech Stack: Next.js, TypeScript, Prisma, MySQL, TailwindCSS, Radix UI, NextAuth, Zod",
         "Funcionalidades avanzadas de filtrado, ordenación y paginación"
       ],
-      "url": "https://github.com/GenaroSalomone/issue-tracker"
+      "github": "https://github.com/GenaroSalomone/issue-tracker",
+      "url": "https://tracker-genarosalomone.vercel.app/"
     },
     {
       "name": "Evently",
@@ -255,6 +257,7 @@
         "Tech Stack: Next.js, Typescript, Shadcn, MongoDB, TailwindCSS, Clerk, SDK Mercado Pago, Zod",
         "Validación de datos robusta y tipada con Zod"
       ],
+      "github": "https://github.com/GenaroSalomone/evently",
       "url": "https://github.com/GenaroSalomone/evently"
     }
   ]
