@@ -6,7 +6,7 @@
     "email": "genarosalomone@gmail.com",
     "phone": "+54 3585499367",
     "url": "https://johndoe.com",
-    "summary": "Actualmente estoy finalizando la carrera Analista en Computación en la UNRC. Vivo en Rio Cuarto, pero soy de Adelia Maria. Aún no tengo experiencia laboral pero estoy ansioso por tenerla.",
+    "summary": "Soy un estudiante próximo a graduarme como Analista en Computación en la UNRC. Resido en Río Cuarto, aunque soy originario de Adelia María. Me apasiona explorar nuevas tecnologías y estoy constantemente buscando oportunidades para aplicar mis conocimientos en proyectos desafiantes. Mi objetivo es trabajar en un entorno profesional donde pueda contribuir con mis habilidades, seguir aprendiendo y creciendo como desarrollador de software.",
     "location": {
       "address": "",
       "postalCode": "5800",
@@ -206,7 +206,7 @@
       "endDate": "2024-01-01",
       "description": "Proyecto realizado en materias de el último año de estudios en UNRC, usando API rest con Sinatra",
       "highlights": [
-        "Funcionalidad para traducir preguntas con máß de 100 lenguajes disponibles"
+        "Funcionalidad para traducir preguntas con más de 100 lenguajes disponibles"
       ],
       "url": "https://github.com/GenaroSalomone/AYDS_Project"
     },
@@ -215,7 +215,7 @@
       "isActive": false,
       "startDate": "2013-01-01",
       "endDate": "2024-01-01",
-      "description": "Proyecto realizado en la materia Proyecto de la UNRC donde se realiza un proyecto de simulación usando python (lógica y backend), y react (frontend).",
+      "description": "Proyecto realizado en la materia final de la carrera, donde se realiza un proyecto de simulación usando Python, y React.",
       "highlights": [
         "Enfoque en la calidad del código con pruebas unitarias y de integración"
       ],
@@ -226,12 +226,10 @@
       "isActive": true,
       "startDate": "2013-01-01",
       "endDate": "2024-01-01",
-      "description": "Proyecto realizado para experimentar con uno de los frameworks más populares de React, NextJS, siguiendo el curso de Programming with Mosh",
+      "description": "Proyecto realizado para experimentar con NextJS, siguiendo el curso de Programming with Mosh",
       "highlights": [
-        "Utilización de tecnologías modernas como Next.js, TypeScript, Prisma, MySQL, TailwindCSS, Radix UI y NextAuth",
-        "Implementación de un dashboard interactivo con gráficos",
-        "Funcionalidades avanzadas de filtrado, ordenación y paginación",
-        "Validación del lado del cliente en los formularios"
+        "Tech Stack: Next.js, TypeScript, Prisma, MySQL, TailwindCSS, Radix UI, NextAuth, Zod",
+        "Funcionalidades avanzadas de filtrado, ordenación y paginación"
       ],
       "url": "https://github.com/GenaroSalomone/issue-tracker"
     },
@@ -240,11 +238,9 @@
       "isActive": true,
       "startDate": "2013-01-01",
       "endDate": "2024-01-01",
-      "description": "Proyecto realizado para experimentar con uno de los frameworks más populares de React, NextJS, siguiendo el curso de Javascript Mastery",
+      "description": "Proyecto realizado con NextJS, siguiendo el curso de Javascript Mastery",
       "highlights": [
-        "Desarrollo de una aplicación web moderna con Next.js, Typescript, Shadcn, MongoDB",
-        "Integración del SDK de Mercado Pago para procesamiento de pagos",
-        "Diseño responsivo y atractivo utilizando TailwindCSS",
+        "Tech Stack: Next.js, Typescript, Shadcn, MongoDB, TailwindCSS, Clerk, SDK Mercado Pago, Zod",
         "Validación de datos robusta y tipada con Zod"
       ],
       "url": "https://github.com/GenaroSalomone/evently"
